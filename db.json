@@ -1,0 +1,7 @@
+{
+    "users": [
+        { "username": "donaldduck", "password": "quack!", "jwt": "" },
+        { "username": "wimpy", "password": "hamburger", "jwt": "" },
+        { "username": "daffyduck", "password": "fmartaff", "jwt": "" }
+    ]    
+}

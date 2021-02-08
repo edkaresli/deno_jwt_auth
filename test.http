@@ -1,0 +1,9 @@
+GET http://localhost:5000/articles HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRvbmFsZGR1Y2siLCJleHAiOjE2MTI4MTE5Mzh9.b-cK8T6VvRUlAvwQsHtoMe-3DDvUbk6hC-n3fiFtp0Bj0DTP-HC-SIggJ83WUv25Ra0A5xh1AI_GTb38nzec0A
+
+### 
+
+GET http://localhost:5000/articles HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndpbXB5IiwiZXhwIjoxNjEyODEyMDI0fQ.LZVEtv31z3pDAL48SjD6onP3oQobU9Yx9MxT7K5tDKwiDdjTSVM6h3diRD7lhyOQQU3BjvYJQuj7UokiFCh1CA
